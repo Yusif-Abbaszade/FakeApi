@@ -2,51 +2,61 @@
     "comments": [
       {
         "name":"Olivia Kaye",
+        "img":"https://themeforest.kreativdev.com/bookapp/demo/assets/images/avatar-4.jpg",
         "pattern": "Mark Jco",
         "comment": "Consider including Mark's professional title or role to establish credibility and provide context for his feedback."
       },
       {
         "name":"Ethan Blake",
+        "img":"https://themeforest.kreativdev.com/bookapp/demo/assets/images/avatar-2.jpg",
         "pattern": "Hello World",
         "comment": "You could specify what contributed to the 4.5-star rating to make the feedback more informative and actionable."
       },
       {
         "name":"Ava Peterson",
+        "img":"https://themeforest.kreativdev.com/bookapp/demo/assets/images/avatar-1.jpg",
         "pattern": "Verified User",
         "comment": "Adding details about how verification is performed could increase trust and transparency."
       },
       {
         "name":"Liam Scott",
+        "img":"https://themeforest.kreativdev.com/bookapp/demo/assets/images/vendor/shop-14.png",
         "pattern": "Los Angela's, USA",
         "comment": "There seems to be a typo in 'Los Angela's'. It should be corrected to 'Los Angeles'."
       },
       {
         "name":"Sophia Bennett",
+        "img":"https://themeforest.kreativdev.com/bookapp/demo/assets/images/avatar-4.jpg",
         "pattern": "04 Days ago",
         "comment": "Consider formatting the timeline as '4 days ago' for consistency with standard date formats."
       },
       {
         "name":"Noah Clarke",
+        "img":"https://themeforest.kreativdev.com/bookapp/demo/assets/images/avatar-2.jpg",
         "pattern": "Ana Studios was very logical and creative at the same time",
         "comment": "You might want to include specific examples of how Ana Studios demonstrated both logic and creativity to make this statement more compelling."
       },
       {
         "name":"Mia Foster",
+        "img":"https://themeforest.kreativdev.com/bookapp/demo/assets/images/avatar-1.jpg",
         "pattern": "excellent feedback on DePalma Studios’ designs",
         "comment": "Clarify how the feedback was collected—was it through surveys, interviews, or another method?"
       },
       {
         "name":"Jackson Hayes",
+        "img":"https://themeforest.kreativdev.com/bookapp/demo/assets/images/vendor/shop-14.png",
         "pattern": "improved look and feel",
         "comment": "Consider elaborating on what specific design changes improved the website's look and feel (e.g., UI updates, color scheme, or layout changes)."
       },
       {
         "name":"Isabella Cruz",
+        "img":"https://themeforest.kreativdev.com/bookapp/demo/assets/images/avatar-4.jpg",
         "pattern": "The team was very communicative and collaborative",
         "comment": "You could enhance this by providing a brief example of how the team’s communication and collaboration stood out."
       },
       {
         "name":"Lucas Reed",
+        "img":"https://themeforest.kreativdev.com/bookapp/demo/assets/images/avatar-2.jpg",
         "pattern": "providing very.",
         "comment": "The sentence seems incomplete here. Ensure it’s finished to maintain clarity and professionalism."
       }
